@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+![Header](https://user-images.githubusercontent.com/98234021/225221149-fe73eddc-5231-40c5-91f9-46ea497e8ffb.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+Profile!;My+Name+is+Sakshi+Kathote)](https://git.io/typing-svg)
 
