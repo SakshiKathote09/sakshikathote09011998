@@ -1,6 +1,7 @@
-### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+Profile!;My+Name+is+Sakshi+Kathote)](https://git.io/typing-svg)
+
+
 🎓   I am a Computer Engineer with excellent academic background and diverse skillset
 🏢   Currently a doing my masters in Information Systems from Northeastern University
 👨‍💻   Interests: AI, Mobile App Development , Java
