@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  About me
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 🎓   I am a Computer Engineer with excellent academic background and diverse skillset
 🏢   Currently a doing my masters in Information Systems from Northeastern University
 👨‍💻   Interests: AI, Mobile App Development , Java
@@ -38,7 +38,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sakshikathote09011998&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshikathote09011998&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sakshikathote09011998.sakshikathote09011998)
